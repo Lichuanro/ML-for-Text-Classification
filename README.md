@@ -7,7 +7,7 @@ In text classification, we are given a document and a fixed set of classes. Clas
 ## Methods of text classification
 * Hand-coded rule-based classifiers
 * Supervised learning
-    * Naive Bayes (simple, common)
-    * k-Nearest Neighbors (simple, powerful)
+    * [Naive Bayes](https://github.com/Lichuanro/ML-for-Text-Classification/blob/master/Naive%20Bayes.ipynb) (simple, common)
+    * [k-Nearest Neighbors](https://github.com/Lichuanro/ML-for-Text-Classification/blob/master/kNN.ipynb) (simple, powerful)
     * Support-vector machines (newer, generally more powerful)
-    * Decision trees -> random forests -> gradient-boosted decision trees (e.g., xgboost)
+    * [Decision trees](https://github.com/Lichuanro/ML-for-Text-Classification/blob/master/Decision%20Tree.ipynb) -> random forests -> gradient-boosted decision trees (e.g., xgboost)
